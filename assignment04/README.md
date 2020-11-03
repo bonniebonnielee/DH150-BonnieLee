@@ -4,7 +4,7 @@
 
 ## Main Design Challenge
 ### What is the main activity your project would support the users’ needs?
-My project will support users by allowing them to order groceries online, without having to physically visit the grocery store.
+My project will support users by allowing them to order groceries. They will be able to do so online, without having to physically visit the grocery store.
 
 ### What is the basic need involved for that activity? 
 The activity of buying groceries fulfills the user's physiological needs, since groceries include food and water, which is a fundamental physical requirement for human survival. With the pandemic, ordering groceries online also fulfills a user's safety needs, as users can order groceries form their own home instead of in-person, thus lowering their risk of COVID-19 exposure.
@@ -16,11 +16,17 @@ The traditional solution to satisfy the needs is to physically enter a store for
 The time and physical effort it takes to grocery shop is the biggest limitation. Grocery shopping can be incredibly time consuming, as one has to physically travel to and from the store, and spend time looking for desired products. In addition, groceries can be very heavy, which may be difficult for some to carry. Digital technology would allow users to order groceries from home with minimal effort, which is especially useful since grocery shopping is a necessary and regular activity. Another limitation of in-person shopping is not knowing if certain products are in stock tuntil arriving at the store. With technology, users could visit a site and learn about the availability of different products right away.
 
 ## Target Users
+### What are the characteristics of users? 
 **Demographics:** Ideally middle-aged women, but suitable for all adults
-
 **Preference:** Those who regularly buy grocery for their families, housewives, mums
-
 **Expertise:** No expertised is required to use this application
+
+### Where would the users do that activity? (i.e., context of use)
+Traditionally, the users would do that activity at a grocery store, such as Ralphs or Trader Joe's. With technology, the user could grocery shop anywhere as long as they had access to internet, whether it be at home, at work, or during a commute. This could be done through a supermarket's official website (e.g. [ralphs.com](ralphs.com)) or online retailers such as Amazon.
+
+### What would the users do to complete that activity? 
+The goal of the activity is to have groceries at home. In the traditional solution, users would physically visit a grocery store, choose the items they would like to purchase, buy them then bring them home. Alternatively, users could order their desired grocery items from a website or app, pay via online payment transaction, and have the groceries delivered to their house.
+
 ## Research Method(s)
 
 ## Reflection
