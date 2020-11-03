@@ -38,16 +38,23 @@ I conducted participatory observation research with my mum, who is part of my ta
 **Video recording of interview:** [Link](https://ucla.zoom.us/rec/share/iWu2mWBAQG3bVOoQWUt5VZiGgwc2IP5lYjN2r1_djqsJ7esF9tKAlj2ZzsL8XUE.w0B4iXxT3ypcQYtA?startTime=1604421667000)
 
 ### Key Findings
+
+#### Having too many choices can make it difficult to make a decision
 > if you're looking for something like say alcoholic beverages, but I don't know any of the brands, they carry actually too many items for me to choose. One thing I find it difficult is say if I want red wine, like they have over 3000 kinds of like red wines. So it's very difficult to find something or choose.
 
+#### The importance of the "filter" function 
 > Um, yeah, I need to use the filter because there's too many. And usually I think the one on top. What they show first is the one that I guess pays more on advertisement. So usually I go for the price high to low. 
 
+#### The importance of re-finding previous orderes
 > I'm ordering like stuff on a continuous basis. So usually I just look back at my previous... there's a history in my previous invoices. So I just pick it up from there.
 
+#### The importance of a rating system to know more about a product
 > Um if they can put in, like say for red wine, um, if there's like a reliable rating system so that like I know the quality, like I'll have more confidence when I pick that item.
 
+#### Comparing online to in-person grocery shopping
 > Easier is that I can do it anytime and they deliver door to door, so I don't have to go physically to a shop, you know, all the hassles. The difficult part is I don't actually order fresh produce online because I'm not too comfortable with the idea of the fresh produce like being in the van or something for hours and then being delivered to my home, and even stuff like frozen food like ice cream. I never ordered online because it doesn't, it doesn't seem to be a good idea, like it melted and then get frozen again.
 
+#### The importance of knowing information about the product
 > Tool. Oh, it'll be.. it'll be good, like if I can see, maybe virtually some of the products. Like because now, even if you click into a product, you can, well, you can read what's what's written on it, but it seems like sometimes it's not that clear on the size or like. And and especially like the the general comments rating on the product. Um, I want more information on that. 
 
 ## Reflection
