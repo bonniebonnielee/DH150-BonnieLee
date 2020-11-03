@@ -58,5 +58,8 @@ I conducted participatory observation research with my mum, who is part of my ta
 > Tool. Oh, it'll be.. it'll be good, like if I can see, maybe virtually some of the products. Like because now, even if you click into a product, you can, well, you can read what's what's written on it, but it seems like sometimes it's not that clear on the size or like. And and especially like the the general comments rating on the product. Um, I want more information on that. 
 
 ## Reflection
+The contextual inquiry process was challenging but rewarding -- I believe it went more smoothly than the usability test since there was more flexibility in the user's actions, and I didn't feel myself pushing my participant to act a certain way. I am glad that I interviewed someone who was in my target demographic, since I was able to step out of my own shoes and get some insight into her perspective.
 
+One thing I noticed was that I often gave examples of answers in my question, e.g. "Can you walk us through like how you go about choosing a red wine. For example, do you use the filters? Do you search?" Although this was instinctual and meant to aid the participant, I could have led her to answer a certain way. In the future, I will be aware of my questions and try to avoid biases or leading questions. 
 
+This was a very eyeopening experience, and allowed me to understand first-hand the importance of user research in creating a truly successful product.
