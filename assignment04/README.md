@@ -30,9 +30,10 @@ The goal of the activity is to have groceries at home. In the traditional soluti
 ## Research Method(s)
 I conducted participatory observation research with my mum, who is part of my target demographic, and is familiar with both in-person and online grocery shopping. The contextual interview started with asking some background questions, then contextual questions and user feedback about the activities. Zoom was used to record the interview, user tasks, and transcript for this assignment.
 
-**Contextual interview script:** [https://docs.google.com/document/d/1M1TiZYgTrgJDMVQfxlP_fVLli2ZhsWRgTLReCLYARaw/edit?usp=sharing](Link)
-**Contextual interview full transcript:** [https://docs.google.com/document/d/1RdGLtV7YXHulWzTvbcq24RnlOrV0BdTYj9WS1xrhCIA/edit?usp=sharing]Link
-**Video recording of interview:** [https://ucla.zoom.us/rec/share/iWu2mWBAQG3bVOoQWUt5VZiGgwc2IP5lYjN2r1_djqsJ7esF9tKAlj2ZzsL8XUE.w0B4iXxT3ypcQYtA?startTime=1604421667000]Link
+**Contextual interview script:** 
+[Link](https://docs.google.com/document/d/1M1TiZYgTrgJDMVQfxlP_fVLli2ZhsWRgTLReCLYARaw/edit?usp=sharing)
+**Contextual interview full transcript:** [Link](https://docs.google.com/document/d/1RdGLtV7YXHulWzTvbcq24RnlOrV0BdTYj9WS1xrhCIA/edit?usp=sharing)
+**Video recording of interview:** [Link](https://ucla.zoom.us/rec/share/iWu2mWBAQG3bVOoQWUt5VZiGgwc2IP5lYjN2r1_djqsJ7esF9tKAlj2ZzsL8XUE.w0B4iXxT3ypcQYtA?startTime=1604421667000)
 
 ### Key Findings
 
