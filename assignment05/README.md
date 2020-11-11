@@ -14,10 +14,12 @@ Allows users to search for a desired item across different stores available on t
 
 ## User Personas + Empathy Maps
 ### Sandra Brown
+<img src="./[Sandra Brown] Persona + Empathy Map.PNG" width="100%" height="100%">
 
 ### Thomas Chan
 
 ## Scenarios + Journey Maps
 ### Sandra Brown
+<img src="./[Sandra Brown] Scenario + Journey Map.PNG" width="100%" height="100%">
 
 ### Thomas Chan
