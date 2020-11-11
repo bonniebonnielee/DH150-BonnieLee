@@ -17,9 +17,12 @@ Allows users to search for a desired item across different stores available on t
 <img src="./[Sandra Brown] Persona + Empathy Map.png" width="100%" height="100%">
 
 ### Thomas Chan
+<img src="./[Thomas Chan] Persona + Empathy Map.png" width="100%" height="100%">
+
 
 ## Scenarios + Journey Maps
 ### Sandra Brown
 <img src="./[Sandra Brown] Scenario + Journey Map.png" width="100%" height="100%">
 
 ### Thomas Chan
+<img src="./[Thomas Chan] Scenario + Journey Map.png" width="100%" height="100%">
