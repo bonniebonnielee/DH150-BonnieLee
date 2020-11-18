@@ -14,7 +14,9 @@
 
 ## Wireframes and Wireflows
 [Here](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment06%5D%20Wireframes.pdf) are some basic wireframes from this prototype.
+
 [Here](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment06%5D%20Wireframes%20and%20Wireflows.pdf) are all the wireframes and wireflows from this prototype.
+
 [Here](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment06%5D%20Wireframes%20Test.pdf) are the results of the prototypting test.
 
 ### Notes on Wireflow Test
