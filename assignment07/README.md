@@ -28,6 +28,7 @@ A recording of my impression test can be found via [this link](https://ucla.zoom
 **Thoughts:** An improvement I could make is to modify the search results to make it clearer, potentially by adding titles or icons.
 
 > "...very clean, user-friendly since there are filters..."
+
 **Thoughts:** The participant could easily tell what that function/purpose of the application is, and likes the interface.
 
 >"...I'm not too sure what the bottom tabs indicate since there are no words underneath."
