@@ -32,9 +32,9 @@ For the colour scheme, I wanted something bright and enticing so users would be 
 
 After creating the four versions, I decided to seek an outside perspective:
 
-<img src="./[DH 150] Colour Scheme Choices.png">
+<img src="./[DH 150] Colour Scheme Choices.png" width="50%" height="50%">
 
-It seemed that both individuals preferred the red scheme, with one also liking the blue one. When doing research, I discovered that a lot of grocery stores had red logos. Since too much red on the screen may be overwhelming for users, I decided that the blue colour scheme would be more appropriate.
+It seemed that both individuals preferred the red scheme, with one also liking the blue one. When doing research, I discovered that a lot of grocery stores had red logos. Since too much red on the screen may be overwhelming for users, I decided that the blue colour scheme would be more appropriate. 
 
 ## Impression Test
 A recording of my impression test can be found via [this link.](https://ucla.zoom.us/rec/share/FX4nrKDGZLgw9HKdIQ8qdstnCoYvijj5PFMT14YM5lNIzzxjb0eZ0Cg8nQenkr2N.nLYpfTeXemBUdqEJ?startTime=1606240971000). 
@@ -60,17 +60,42 @@ The transcription can be found [here.](https://docs.google.com/document/d/1XaIIc
 In order to carry out my accessibility check, I used a Figma Plugin called [Able – Friction free accessibility.](https://www.figma.com/community/plugin/734693888346260052/Able-%E2%80%93-Friction-free-accessibility) After checking the accessibility of both my red and blue version, I decided to use blue as my primary colour scheme since the two shades of red failed the accessibility check, as seen from the screenshot above. That being said, if time permits, I am inclined to try out different shades of red to see if there is a combination that is appealing yet accessible.
 
 ## Interactive Prototype
-[Link is here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
+[Here is a link to my interactive Figma prototype.](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
 
 <img src="./[DH 150] Prototype Part 1.gif" width="30%" height="30%"> <img src="./[DH 150] Prototype Part 2.gif" width="30%" height="30%">
 
-## Wireflow (Diagram)
-[Link is here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
+### Wireflows
+[Here is a link to my wireflows.](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
 
 <img src="./[DH 150] Wireflows.png" width="30%" height="30%"> 
 
 ## Cognitive Walkthrough
-[Link is here](https://docs.google.com/document/d/1-h-uXEGmAlBx4spui_FzYVsvYnh1TGwMNJa8MMHoEHc/edit)
+[Here is a link to my cognitive walkthrough.](https://docs.google.com/document/d/1-h-uXEGmAlBx4spui_FzYVsvYnh1TGwMNJa8MMHoEHc/edit)
+
+### Summary of Findings:
+> Page is pretty organized, reminds me of grocery store apps which is familiar!
+
+**Thoughts:** This was good feedback, since it told me that my homepage was appropriate and it was easy for users to identify the purpose of my application.
+
+> I feel like category is a little confusing here? Maybe something like Narrow down my search or looking for something more specific?
+
+**Thoughts:** I changed the wording in order to make the purpose clearer.
+<img src="./[DH 150] Improvement - Search Results.png" width="50%" height="50%"> 
+
+> Might be overwhelmed by how much pictures take up the screen. Might suggest sizing down a little and taking advantage of allowing white space.
+
+**Thoughts:** Since my target demographic is middle-aged women who might not have the clearest eyesight, I decided to leave the shopping page with bigger pictures of products, especially because pictures of products are important to users. That being said, I sized down the squares in the homepage, with three squares per row.
+
+> On the screen with the the drop down of search bar, there isn't a clear way of how users will get out of the screen
+
+**Thoughts:** This was something I neglected, so I modified the screen by adding the "back" button.
+<img src="./[DH 150] Search.png" width="50%" height="50%"> 
+
+> Curious as to how the checkout will look like
+
+**Thoughts:** Since my product is a shopping application, the checkout screen is really important, so I decided to add that as part of my prototype.
+<img src="./[DH 150] Improvement - Check Out.png" width="50%" height="50%"> 
+
 
 ## Reflection
 This process was challenging but rewarding -- I believe it went more smoothly than the usability test since there was more flexibility in the user's actions, and I didn't feel myself pushing my participant to act a certain way. I am glad that I interviewed someone who was in my target demographic, since I was able to step out of my own shoes and get some insight into her perspective.
