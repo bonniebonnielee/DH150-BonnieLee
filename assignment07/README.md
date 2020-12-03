@@ -60,6 +60,7 @@ The transcription can be found [here.](https://docs.google.com/document/d/1XaIIc
 In order to carry out my accessibility check, I used a website called [contrast-ratio.com/](https://contrast-ratio.com/). I realized that my original primary colour, #80C2FF, failed the WCAG 2.0 requirements, so I change it to #3A74B8, which passes AA level for any size text and AAA for large text (above 18pt or bold above 14pt) -- this is acceptable since I only used this colour as a background for large text.
 
 This shows the prototype with updated, accessible colours: 
+
 <img src="./[DH 150] Improvement - Home.png" width="50%" height="50%"> 
 
 
