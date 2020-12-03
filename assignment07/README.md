@@ -34,12 +34,12 @@ After creating the four versions, I decided to seek an outside perspective:
 
 <img src="./[DH 150] Colour Scheme Choices.png">
 
-It seemed that both individuals preferred the red scheme, with one also liking the blue one. In order to decide, I used an accessibility checker to ensure that my colour scheme would be appropriate and userfriendly for all. 
+It seemed that both individuals preferred the red scheme, with one also liking the blue one. When doing research, I discovered that a lot of grocery stores had red logos. Since too much red on the screen may be overwhelming for users, I decided that the blue colour scheme would be more appropriate.
 
 ## Impression Test
-A recording of my impression test can be found via [this link](https://ucla.zoom.us/rec/share/FX4nrKDGZLgw9HKdIQ8qdstnCoYvijj5PFMT14YM5lNIzzxjb0eZ0Cg8nQenkr2N.nLYpfTeXemBUdqEJ?startTime=1606240971000). 
+A recording of my impression test can be found via [this link.](https://ucla.zoom.us/rec/share/FX4nrKDGZLgw9HKdIQ8qdstnCoYvijj5PFMT14YM5lNIzzxjb0eZ0Cg8nQenkr2N.nLYpfTeXemBUdqEJ?startTime=1606240971000). 
 
-The transcription can be found [here](https://docs.google.com/document/d/1XaIIcZ6kcg-XywOLD3EVHrA_fkklx40n1Hq9z8iDUFw/edit?usp=sharing)
+The transcription can be found [here.](https://docs.google.com/document/d/1XaIIcZ6kcg-XywOLD3EVHrA_fkklx40n1Hq9z8iDUFw/edit?usp=sharing)
 
 ### Summary of Findings:
 > Just a quick question, does this mean that it's been searched or it's been trending?
@@ -61,8 +61,11 @@ In order to carry out my accessibility check, I used a Figma Plugin called [Able
 
 ## Interactive Prototype
 [Link is here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FZAVK4rpta9kUjnSUQ9XDAq%2FHighFi-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
 ## Wireflow (Diagram)
 [Link is here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
+
 
 ## Cognitive Walkthrough
 [Link is here](https://docs.google.com/document/d/1-h-uXEGmAlBx4spui_FzYVsvYnh1TGwMNJa8MMHoEHc/edit)
