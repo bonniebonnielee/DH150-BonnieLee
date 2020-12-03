@@ -57,7 +57,7 @@ The transcription can be found [here.](https://docs.google.com/document/d/1XaIIc
 ## Accessibility (color-contrast) check
 <img src="./[DH 150] Accessibility:Red.png" width="30%" height="30%"> 
 
-In order to carry out my accessibility check, I used a Figma Plugin called [Able – Friction free accessibility.](https://www.figma.com/community/plugin/734693888346260052/Able-%E2%80%93-Friction-free-accessibility) After checking the accessibility of both my red and blue version, I decided to use blue as my primary colour scheme since the two shades of red failed the accessibility check, as seen from the screenshot above. That being said, if time permits, I am inclined to try out different shades of red to see if there is a combination that is appealing yet accessible.
+In order to carry out my accessibility check, I used a Figma Plugin called [Able – Friction free accessibility.](https://www.figma.com/community/plugin/734693888346260052/Able-%E2%80%93-Friction-free-accessibility) After checking the accessibility of both my red and blue version, I decided to use blue as my primary colour scheme since the two shades of red failed the accessibility check, as seen from the screenshot above. 
 
 ## Interactive Prototype
 [Here is a link to my interactive Figma prototype.](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
