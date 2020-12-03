@@ -61,11 +61,13 @@ In order to carry out my accessibility check, I used a Figma Plugin called [Able
 
 ## Interactive Prototype
 [Link is here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
-<img src="./[DH 150] Prototype Part 1.gif"> <img src="./[DH 150] Prototype Part 2.gif">
+
+<img src="./[DH 150] Prototype Part 1.gif" width="30%" height="30%"> <img src="./[DH 150] Prototype Part 2.gif" width="30%" height="30%">
 
 ## Wireflow (Diagram)
 [Link is here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
-<img src="./[DH 150] Wireflows.png"> 
+
+<img src="./[DH 150] Wireflows.png" width="30%" height="30%"> 
 
 ## Cognitive Walkthrough
 [Link is here](https://docs.google.com/document/d/1-h-uXEGmAlBx4spui_FzYVsvYnh1TGwMNJa8MMHoEHc/edit)
