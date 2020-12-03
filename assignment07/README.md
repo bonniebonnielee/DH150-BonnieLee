@@ -80,6 +80,7 @@ In order to carry out my accessibility check, I used a Figma Plugin called [Able
 > I feel like category is a little confusing here? Maybe something like Narrow down my search or looking for something more specific?
 
 **Thoughts:** I changed the wording in order to make the purpose clearer.
+
 <img src="./[DH 150] Improvement - Search Results.png" width="50%" height="50%"> 
 
 > Might be overwhelmed by how much pictures take up the screen. Might suggest sizing down a little and taking advantage of allowing white space.
@@ -89,11 +90,13 @@ In order to carry out my accessibility check, I used a Figma Plugin called [Able
 > On the screen with the the drop down of search bar, there isn't a clear way of how users will get out of the screen
 
 **Thoughts:** This was something I neglected, so I modified the screen by adding the "back" button.
-<img src="./[DH 150] Search.png" width="50%" height="50%"> 
+
+<img src="./[DH 150] Improvement - Search.png" width="50%" height="50%"> 
 
 > Curious as to how the checkout will look like
 
 **Thoughts:** Since my product is a shopping application, the checkout screen is really important, so I decided to add that as part of my prototype.
+
 <img src="./[DH 150] Improvement - Check Out.png" width="50%" height="50%"> 
 
 
