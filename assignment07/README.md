@@ -1,13 +1,26 @@
 # DH150-assignment07-BonnieLee
 
-## High Fidelity Prototype
-High-fidelity prototypes look like live software to customers, meaning participants would be more likely to behave naturally during testing. You can dive deep into a single component (like flow, visuals, engagement, or navigation) during user testing. This allows you to get detailed feedback on certain elements of the design that would not be possible with pen and paper.
+## Overview
 
-## Description of Project
-My project will support users by allowing them to order groceries. They will be able to do so online, without having to physically visit the grocery store.
+### Project Description
+My project is a grocery shopping delivery app called Shoppr, which allows users to order groceries from a selection of different stores, without having to physically visit the store. 
+
+### Purpose & Process
+The high-fidelity prototype was created by digitizing wireframes and wireflows that I handdrew, and incorporating feedback I received from testing the low-fidelity prototype. When creating the high-fidelity prototype, I applied graphic design principles to the wireframes, and added colours, interactive compontents, and interactivity to ensure a consistent and satisfying user experience. Since the high-fidelity prototype is interactive and visualizes the UI/UX aspects of my product, it will allow me to gain more detailed feedback and insight on certain parts of the design that aren't possible from the low-fidelity prototype.
+
+### Supported Tasks 
+Here are a list of tasks that the high-fidelity prototype supports:
+* View list of stores
+* View shopping cart
+* Rebuy previous order
+* Product search
+* Add product to cart
+* Remove product from cart
+* Check Out
 
 ## Graphic Design
-Below are three distinctive screen designs that represent the user-interface design of my application with standard graphical components.
+
+Below are several distinctive screen designs that represent the user-interface design of my application with standard graphical components.
 
 <img src="./[Dh 150] Home.png" width="30%" height="30%"> <img src="./[DH 150] Search.png" width="30%" height="30%"> <img src="./[DH 150] Search Results.png" width="30%" height="30%">
 
@@ -23,7 +36,9 @@ After creating the four versions, I decided to seek an outside perspective:
 It seemed that both individuals preferred the red scheme, with one also liking the blue one. In order to decide, I used an accessibility checker to ensure that my colour scheme would be appropriate and userfriendly for all. 
 
 ## Impression Test
-A recording of my impression test can be found via [this link](https://ucla.zoom.us/rec/share/FX4nrKDGZLgw9HKdIQ8qdstnCoYvijj5PFMT14YM5lNIzzxjb0eZ0Cg8nQenkr2N.nLYpfTeXemBUdqEJ?startTime=1606240971000).
+A recording of my impression test can be found via [this link](https://ucla.zoom.us/rec/share/FX4nrKDGZLgw9HKdIQ8qdstnCoYvijj5PFMT14YM5lNIzzxjb0eZ0Cg8nQenkr2N.nLYpfTeXemBUdqEJ?startTime=1606240971000). 
+
+The transcription can be found [here](https://docs.google.com/document/d/1XaIIcZ6kcg-XywOLD3EVHrA_fkklx40n1Hq9z8iDUFw/edit?usp=sharing)
 
 ### Summary of Findings:
 > Just a quick question, does this mean that it's been searched or it's been trending?
