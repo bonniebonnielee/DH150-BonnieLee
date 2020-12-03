@@ -55,9 +55,13 @@ The transcription can be found [here.](https://docs.google.com/document/d/1XaIIc
 **Thoughts:** To make the application more usefriendly and intuitive, I could add words underneath the icons in the navigation bar to clearly indicate what each button means.
 
 ## Accessibility (color-contrast) check
-<img src="./[DH 150] Accessibility:Red.png" width="30%" height="30%"> 
+<img src="./[DH 150] Accessibility Check Fail.png" width="30%" height="30%"> <img src="./[DH 150] Accessibility Check Success.png" width="30%" height="30%"> 
 
-In order to carry out my accessibility check, I used a Figma Plugin called [Able – Friction free accessibility.](https://www.figma.com/community/plugin/734693888346260052/Able-%E2%80%93-Friction-free-accessibility) After checking the accessibility of both my red and blue version, I decided to use blue as my primary colour scheme since the two shades of red failed the accessibility check, as seen from the screenshot above. 
+In order to carry out my accessibility check, I used a website called [contrast-ratio.com/](https://contrast-ratio.com/). I realized that my original primary colour, #80C2FF, failed the WCAG 2.0 requirements, so I change it to #3A74B8, which passes AA level for any size text and AAA for large text (above 18pt or bold above 14pt) -- this is acceptable since I only used this colour as a background for large text.
+
+This shows the prototype with updated, accessible colours: 
+<img src="./[DH 150] Improvement - Home.png" width="50%" height="50%"> 
+
 
 ## Interactive Prototype
 [Here is a link to my interactive Figma prototype.](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1)
@@ -101,8 +105,9 @@ In order to carry out my accessibility check, I used a Figma Plugin called [Able
 
 
 ## Reflection
-This process was challenging but rewarding -- I believe it went more smoothly than the usability test since there was more flexibility in the user's actions, and I didn't feel myself pushing my participant to act a certain way. I am glad that I interviewed someone who was in my target demographic, since I was able to step out of my own shoes and get some insight into her perspective.
+This prototyping process was challenging but I definitely learnt a lot, and got to experience the process behind user-centric design. The impression test and cognitive walkthrough were both really useful, since it allowed me to gain an outsider perspective and witness a user go through my product's intended workflow. From this, I got some very useful feedback and incorporated them to improve my designs.
 
-One thing I noticed was that I often gave examples of answers in my question, e.g. "Can you walk us through like how you go about choosing a red wine. For example, do you use the filters? Do you search?" Although this was instinctual and meant to aid the participant, I could have led her to answer a certain way. In the future, I will be aware of my questions and try to avoid biases or leading questions.
 
-This was a very eyeopening experience, and allowed me to understand first-hand the importance of user research in creating a truly successful product.
+Through this process, I also learnt how to use Figma when designing my prototype which I really enjoyed. Since I didn't check the accessibility of my colours until after an initial iteration of the prototype, I had to change the colours afterwards which was quite tedious. In the future, I have to make sure accessibility is at the forefront of the design process instead of an afterthought to avoid this type of mistake. 
+
+Overall, this was a very enjoyable and rewarding experience, and I learnt a lot about UX principles and the design process.
