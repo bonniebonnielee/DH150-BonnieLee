@@ -13,7 +13,7 @@ To start off the user experience research process, I performed a competitor anal
 Instacart | HKTVmall
 --------- | ---------
 [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) | [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart) | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) | [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart)
-<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-homescreen.PNG" width="30%" height="30%">  | <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-homescreen.PNG" width="30%" height="30%"> 
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-homescreen.PNG">  | <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-homescreen.PNG"> 
 
 [Read More](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/README.md)
 
