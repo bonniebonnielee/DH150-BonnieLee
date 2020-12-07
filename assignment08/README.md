@@ -10,10 +10,11 @@ My project will support users by allowing them to order groceries online, withou
 To start off the user experience research process, I performed a competitor analysis with two online grocery applications on the market, namely the iOS app versions of Instacart and HKTVmall.
 
 ### Heuristic Evaluation
-Instacart | HKTVmall
---------- | ---------
-[Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \|\ [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart) | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \|\ [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart)
-<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-homescreen.PNG" width="60%" height = "60%">  | <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-homescreen.PNG" width="60%"> 
+Product |Instacart | HKTVmall
+-------- | --------- | ---------
+Links | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \| [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart) | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \| [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart)
+Screenshots | <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-homescreen.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-menu.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-cart.PNG" width="30%">| <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-homescreen.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-menu.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-cart.PNG" width="30%">
+
 
 [Read More](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/README.md)
 
