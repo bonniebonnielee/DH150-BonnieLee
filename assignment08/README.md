@@ -1,14 +1,23 @@
 # DH150-assignment08-BonnieLee
 
 ## Introduction
-I am Bonnie Lee and I am currently taking DH 150: User Experience Design with Professor Sookyung Cho. For my project, I will be designing an online grocery delivery app for middle-aged women. Following the COVID-19 pandemic, online grocery shopping platforms such as Instacart have been rising in popularity as consumers find alternatives to in-person grocery shopping. I believe this platform would allow middle-aged women to have a quick and seamless online grocery shopping experience! These platforms typically have both a web and mobile version -- I will focus on the mobile app version since I have found that it typically has more usability issues than the web version. The competitors I am analyzing today are the iOS app versions of Instacart and HKTVmall.
-
+For my DH 150 project, I will be designing an online grocery delivery app for middle-aged women. Following the COVID-19 pandemic, online grocery shopping platforms such as Instacart have been rising in popularity as consumers find alternatives to in-person grocery shopping. I believe this platform would allow middle-aged women to have a quick and seamless online grocery shopping experience! These platforms typically have both a web and mobile version -- I will focus on the mobile app version since I have found that it typically has more usability issues than the web version. 
 
 ## Design Statement
-My project will support users by allowing them to order groceries. They will be able to do so online, without having to physically visit the grocery store.
+My project will support users by allowing them to order groceries online, without having to physically visit the grocery store. The activity of buying groceries fulfills the user's physiological needs, since groceries include food and water, which is a fundamental physical requirement for human survival. With the pandemic, ordering groceries online also fulfills a user's safety needs, as users can order groceries from their own home instead of in-person, thus lowering their risk of COVID-19 exposure.
 
 ## Competitor Analysis
+To start off the user experience research process, I performed a competitor analysis with two online grocery applications on the market, namely the iOS app versions of Instacart and HKTVmall.
+
+### Heuristic Evaluation
+Instacart | HKTVmall
+--------- | ---------
+<img src="./instacart-homescreen.PNG" width="30%" height="30%"> <img src="./instacart-cart.PNG" width="30%" height="30%"> <img src="./instacart-menu.PNG" width="30%" height="30%"> | <img src="./hktvmall-homescreen.PNG" width="30%" height="30%"> <img src="./hktvmall-cart.PNG" width="30%" height="30%"> <img src="./hktvmall-menu.PNG" width="30%" height="30%">
+
 [Read More](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/README.md)
+
+
+### Usability Testing
 
 ## User Research
 [Read More](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment04/README.md)
