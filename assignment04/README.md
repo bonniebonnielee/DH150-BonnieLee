@@ -18,7 +18,9 @@ The time and physical effort it takes to grocery shop is the biggest limitation.
 ## Target Users
 ### What are the characteristics of users? 
 **Demographics:** Ideally middle-aged women, but suitable for all adults
+
 **Preference:** Those who regularly buy grocery for their families, housewives, mums
+
 **Expertise:** No expertised is required to use this application
 
 ### Where would the users do that activity? (i.e., context of use)
