@@ -7,7 +7,7 @@
 My project will support users by allowing them to order groceries. They will be able to do so online, without having to physically visit the grocery store.
 
 ### What is the basic need involved for that activity? 
-The activity of buying groceries fulfills the user's physiological needs, since groceries include food and water, which is a fundamental physical requirement for human survival. With the pandemic, ordering groceries online also fulfills a user's safety needs, as users can order groceries form their own home instead of in-person, thus lowering their risk of COVID-19 exposure.
+The activity of buying groceries fulfills the user's physiological needs, since groceries include food and water, which is a fundamental physical requirement for human survival. With the pandemic, ordering groceries online also fulfills a user's safety needs, as users can order groceries from their own home instead of in-person, thus lowering their risk of COVID-19 exposure.
 
 ### What is/are the traditional/current solution(s) to satisfy the needs?
 The traditional solution to satisfy the needs is to physically enter a store for in-person grocery shopping. Other solutions include going out to restaurants, getting takeout, or ordering delivery for food to fulfill physiological needs.
