@@ -12,7 +12,7 @@ To start off the user experience research process, I performed a competitor anal
 ### Heuristic Evaluation
 Instacart | HKTVmall
 --------- | ---------
-<img src="./instacart-homescreen.PNG" width="30%" height="30%"> <img src="./instacart-cart.PNG" width="30%" height="30%"> <img src="./instacart-menu.PNG" width="30%" height="30%"> | <img src="./hktvmall-homescreen.PNG" width="30%" height="30%"> <img src="./hktvmall-cart.PNG" width="30%" height="30%"> <img src="./hktvmall-menu.PNG" width="30%" height="30%">
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-homescreen.PNG" width="30%" height="30%"> <img src="./instacart-cart.PNG" width="30%" height="30%"> <img src="./instacart-menu.PNG" width="30%" height="30%"> | <img src="./hktvmall-homescreen.PNG" width="30%" height="30%"> <img src="./hktvmall-cart.PNG" width="30%" height="30%"> <img src="./hktvmall-menu.PNG" width="30%" height="30%">
 
 [Read More](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/README.md)
 
