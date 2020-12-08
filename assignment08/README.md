@@ -56,9 +56,9 @@ Here are some of my key findings:
 ## UX Storytelling
 UX storytelling is essential to successful user-centered design, and gives the designer an opportunity to truly step into a user's shoes. By imagining a user's perspective, one could identify why and how a product would be used, and spot pain points more easily. Through user personas, personalized stories and hypothetical scenarios, designers are able to empathize with users and better understand the user's experience when using the product. UX storytelling also eliminates a designer's personal biases, and create a product that is cohesive and focuses on intended users. 
 
-I developed two user personas as a result of my heuristic evaluation and user research: Sandra Brown, a soccer mum who puts family first, and Thomas Chan, a university fresh graduate and software engineer. To identify their goals, motivations, and frustrations, I created empathy maps, scenarios and journey maps for each ot eh personas.
+I developed two user personas as a result of my heuristic evaluation and user research: Sandra Brown, a soccer mum who puts family first, and Thomas Chan, a university fresh graduate and software engineer. To identify their goals, motivations, and frustrations, I created empathy maps, scenarios and journey maps for each of the personas.
 
-<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment05/%5BSandra%20Brown%5D%20Persona%20%2B%20Empathy%20Map.png" width="100%" height="100%">
+<img src="https://https://bonniebonnielee.github.io/DH150-BonnieLee/assignment05/%5BSandra%20Brown%5D%20Persona%20%2B%20Empathy%20Map.png" width="100%" height="100%">
 <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment05/%5BThomas%20Chan%5D%20Persona%20%2B%20Empathy%20Map.png" width="100%" height="100%">
 
 <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment05/%5BSandra%20Brown%5D%20Scenario%20%2B%20Journey%20Map.png" width="100%" height="100%">
