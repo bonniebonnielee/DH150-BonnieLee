@@ -11,7 +11,7 @@ To start off the user experience research process, I performed a competitor anal
 
 
 ### Heuristic Evaluation
-Competitor |Instacart | HKTVmall
+Competitor | Instacart | HKTVmall
 -------- | --------- | ---------
 **Links** | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \| [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart) | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \| [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart)
 **Screenshots** | <img src="instacart-homescreen.PNG" width="30%"> <img src="instacart-menu.PNG" width="30%"> <img src="instacart-cart.PNG" width="30%">| <img src="hktvmall-homescreen.PNG" width="30%"> <img src="hktvmall-menu.PNG" width="30%"> <img src="hktvmall-cart.PNG" width="30%">
