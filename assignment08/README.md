@@ -68,9 +68,8 @@ I developed two user personas as a result of my heuristic evaluation and user re
 
 ## Low-fidelity Prototype
 The purpose of low-fidelity prototyping is to test ideas early in the design process, ensuring that features implemented can achieve intended goals and are helpful for the target user. I wrote the following features as usage scenarios: platform-wide search, filter results, and adding multiple items to cart.
-<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%5D%20hand-drawn-wireframe-search.png" width="30%">
-<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%5D%20hand-drawn-wireframe-filter.png" width="30%">
-<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%5D%20hand-drawn-wireframe-addtocart.png" width="30%">
+
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment%2006%5D%20Wireframes.png">
 
 [Here](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment06%5D%20Wireframes%20and%20Wireflows.pdf) are all the wireframes and wireflows from this prototype.
 
@@ -81,7 +80,7 @@ The purpose of low-fidelity prototyping is to test ideas early in the design pro
 ## High-Fidelity Prototype
 The high-fidelity prototype was created by digitizing wireframes and wireflows that I handdrew, and incorporating feedback I received from testing the low-fidelity prototype. When creating the high-fidelity prototype, I applied graphic design principles to the wireframes, and added colours, interactive compontents, and interactivity to ensure a consistent and satisfying user experience. Since the high-fidelity prototype is interactive and visualizes the UI/UX aspects of my product, it will allow me to gain more detailed feedback and insight on certain parts of the design that aren't possible from the low-fidelity prototype.
 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FZAVK4rpta9kUjnSUQ9XDAq%2FHighFi-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
