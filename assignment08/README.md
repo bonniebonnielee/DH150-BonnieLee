@@ -16,7 +16,6 @@ Competitor |Instacart | HKTVmall
 **Links** | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \| [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart) | [Download Link](https://apps.apple.com/hk/app/hktvmall-online-shopping/id910398738?l=en) \| [Demo Video](https://www.youtube.com/watch?v=PksAfCz6akw&ab_channel=Instacart)
 **Screenshots** | <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-homescreen.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-menu.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/instacart-cart.PNG" width="30%">| <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-homescreen.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-menu.PNG" width="30%"> <img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/hktvmall-cart.PNG" width="30%">
 **Brief Information** | Instacart is a grocery delivery and pick-up service based in North America, which allows customers to order groceries from participating retailers, with shopping done by a personal shopper. | Based in Hong Kong, HKTVmall is an online one-stop shopping and entertainment platform that sells everything from groceries to clothes to electronics.
-
 **Overall Evaluation** | By offering an alternative to in-person grocery shopping, Instacart addresses a critical pain point for those who are unable or unwilling to visit the store, especially those with health concerns during the COVID-19 pandemic. Although the web version is generally intuitive and easy to use, the mobile app has some key usability issues that need to be addressed for users to have a seamless and delightful shopping experience. | I primarily analyzed the "Supermarket" category although HKTVmall sells a wide variety of products, since that is what Instacart and my project will focus on. Although the platform is a very convenient way to shop, it is incredibly overwhelming due to the excessive amount of promotions and irrelevant information, leading to a negative user experience.
 
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/README.md)
@@ -67,13 +66,23 @@ I developed two user personas as a result of my heuristic evaluation and user re
 
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment05/README.md)
 
-## Wireframes
-[Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/README.md)
-
 ## Low-fidelity Prototype
+The purpose of low-fidelity prototyping is to test ideas early in the design process, ensuring that features implemented can achieve intended goals and are helpful for the target user. I wrote the following features as usage scenarios: platform-wide search, filter results, and adding multiple items to cart.
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%5D%20hand-drawn-wireframe-search.png" width="30%">
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%5D%20hand-drawn-wireframe-filter.png" width="30%">
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%5D%20hand-drawn-wireframe-addtocart.png" width="30%">
+
+[Here](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment06%5D%20Wireframes%20and%20Wireflows.pdf) are all the wireframes and wireflows from this prototype.
+
+[Here](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/%5BDH%20150%20Assignment06%5D%20Wireframes%20Test.pdf) are the results of the prototypting test.
+
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/README.md)
 
 ## High-Fidelity Prototype
+The high-fidelity prototype was created by digitizing wireframes and wireflows that I handdrew, and incorporating feedback I received from testing the low-fidelity prototype. When creating the high-fidelity prototype, I applied graphic design principles to the wireframes, and added colours, interactive compontents, and interactivity to ensure a consistent and satisfying user experience. Since the high-fidelity prototype is interactive and visualizes the UI/UX aspects of my product, it will allow me to gain more detailed feedback and insight on certain parts of the design that aren't possible from the low-fidelity prototype.
+
+
+
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
 ## Evaluation and Revision History
