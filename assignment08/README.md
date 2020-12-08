@@ -111,7 +111,12 @@ I incorporated the above feedback into my prototype in order to improve my desig
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
 ## Pitch Video
-[![Pitch - Bonnie Lee](http://img.youtube.com/vi/RewewFHwr4g/0.jpg)](https://www.youtube.com/watch?v=RewewFHwr4g "Pitch - Bonnie Lee")
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=RewewFHwr4g" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line →>
+
 
 ## Reflection and Conclusion
 This design process was challenging but I definitely learnt a lot, and got to experience the process behind user-centric design. Through the usability test, contextual inquiry, cognitive walkthrough and impression test, I realized the importance of testing and iterating throughout the process in order to create a product that users will truly use and benefit from.
