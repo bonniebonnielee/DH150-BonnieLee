@@ -111,5 +111,11 @@ I incorporated the above feedback into my prototype in order to improve my desig
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
 ## Pitch Video
+[![Pitch - Bonnie Lee](http://img.youtube.com/vi/RewewFHwr4g/0.jpg)](https://www.youtube.com/watch?v=RewewFHwr4g "Pitch - Bonnie Lee")
 
-## Conclusion
+## Reflection and Conclusion
+This design process was challenging but I definitely learnt a lot, and got to experience the process behind user-centric design. Through the usability test, contextual inquiry, cognitive walkthrough and impression test, I realized the importance of testing and iterating throughout the process in order to create a product that users will truly use and benefit from.
+
+I also learnt how to use Figma when designing my user personas and prototype which I really enjoyed. Since I didn't check the accessibility of my colours until after an initial iteration of the prototype, I had to change the colours afterwards which was quite tedious. In the future, I have to make sure accessibility is at the forefront of the design process instead of an afterthought to avoid this type of mistake.
+
+Overall, this was a very enjoyable and rewarding experience, and I learnt a lot about UX principles and the design process.
