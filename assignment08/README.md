@@ -23,7 +23,7 @@ Competitor |Instacart | HKTVmall
 ### Usability Testing
 My usability test was conducted using a live iOS version of the Instacart mobile app (version 7.49.0), and focused on the following heuristics: visibility of system status, user control and freedom, and aesthetic and minimalist design. The participant was asked to add products to their cart, add/remove a product from favourites, and see what household products are available in nearby stores.
  
-[![Pilot Usability Test](contextual-inquiry-thumbnail.png)](https://drive.google.com/file/d/1ykYMlJmhDOPQiY7W42mjcfz9yfCg7GMB/view?usp=sharing)
+[![Pilot Usability Test](usability-test-thumbnail.png)](https://drive.google.com/file/d/1ykYMlJmhDOPQiY7W42mjcfz9yfCg7GMB/view?usp=sharing)
 
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment02)
 
@@ -77,14 +77,37 @@ The purpose of low-fidelity prototyping is to test ideas early in the design pro
 
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment06/README.md)
 
+## Wireframe and Graphic Design Element Variation
+[Here](https://www.figma.com/file/ZAVK4rpta9kUjnSUQ9XDAq/HighFi-Prototype?node-id=0%3A1) is a version of the prototype that reflects the usage scenarios and following tasks:
+* View list of stores
+* View shopping cart
+* Rebuy previous order
+* Product search
+* Add product to cart
+* Remove product from cart
+* Check Out
+
+<img src="https://github.com/bonniebonnielee/DH150-BonnieLee/blob/main/assignment07/%5BDH%20150%5D%20Wireflows.png" width="60%">
+
 ## High-Fidelity Prototype
 The high-fidelity prototype was created by digitizing wireframes and wireflows that I handdrew, and incorporating feedback I received from testing the low-fidelity prototype. When creating the high-fidelity prototype, I applied graphic design principles to the wireframes, and added colours, interactive compontents, and interactivity to ensure a consistent and satisfying user experience. Since the high-fidelity prototype is interactive and visualizes the UI/UX aspects of my product, it will allow me to gain more detailed feedback and insight on certain parts of the design that aren't possible from the low-fidelity prototype.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FZAVK4rpta9kUjnSUQ9XDAq%2FHighFi-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZAVK4rpta9kUjnSUQ9XDAq%2FHighFi-Prototype%3Fnode-id%3D48%253A591%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
 ## Evaluation and Revision History
+To test the functionality of my product, I conducted a cognitive walkthrough and impression test with various users, and received feedback and identified opportunities for improvements.
+
+Here are some key findings:
+* Users are able to understand the purpose of the application from the main page
+* Unclear how to get out of search screen
+* Overall pretty organized and easy to navigate
+* Wording can be unclear at times
+
+I incorporated the above feedback into my prototype in order to improve my designs. The impression test and cognitive walkthrough were both really useful, since it allowed me to gain an outsider perspective and witness a user go through my product's intended workflow. 
+
+[Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
 ## Pitch Video
 
