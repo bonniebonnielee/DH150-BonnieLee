@@ -113,7 +113,7 @@ I incorporated the above feedback into my prototype in order to improve my desig
 ## Pitch Video
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=RewewFHwr4g" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=RewewFHwr4g" frameborder="0" allowfullscreen> </iframe>
 </figure>
 <!-- blank line -->
 
