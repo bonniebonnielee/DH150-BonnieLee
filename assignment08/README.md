@@ -115,7 +115,7 @@ I incorporated the above feedback into my prototype in order to improve my desig
 <figure class="video_container">
   <iframe src="https://www.youtube.com/watch?v=RewewFHwr4g" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line →>
+<!-- blank line -->
 
 
 ## Reflection and Conclusion
