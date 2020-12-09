@@ -111,11 +111,9 @@ I incorporated the above feedback into my prototype in order to improve my desig
 [Read more...](https://github.com/bonniebonnielee/DH150-BonnieLee/tree/main/assignment07)
 
 ## Pitch Video
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=RewewFHwr4g" frameborder="0" allowfullscreen> </iframe>
-</figure>
-<!-- blank line -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RewewFHwr4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Reflection and Conclusion
